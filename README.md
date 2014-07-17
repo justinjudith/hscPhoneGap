@@ -1,0 +1,4 @@
+hscPhoneGap
+===========
+
+For hscPhoneGap project
